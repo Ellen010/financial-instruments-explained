@@ -21,7 +21,7 @@ body {
 
 header {
   color: white;
-  top: 250px;
+  margin-top: 250px;
   margin-left: 10px;
   text-align: center;
   font-size: 1.8em;
