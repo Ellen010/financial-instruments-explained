@@ -21,8 +21,8 @@ body {
 
 header {
   color: white;
-  margin-top: 250px;
-  margin-left: 10px;
+  margin-top: 25px;
+  padding: 10px;
   text-align: center;
   font-size: 1.8em;
   font-weight: thin;
