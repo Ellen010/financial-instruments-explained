@@ -10,7 +10,7 @@ body {
 #navbar {
   position: fixed;
   min-width: 290px;
-  top: 100px;
+  top: 0px;
   left: 0px;
   width: 300px;
   height: 100%;
