@@ -82,7 +82,8 @@ This project demonstrates my **front-end development skills, content architectur
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-second-screenshot.png" width="90%" alt="Financial Instruments Section" />
+  <img width="1897" height="903" alt="image" src="https://github.com/user-attachments/assets/d51065f4-091d-4c6f-a928-a46a91e86070" />
+
 </p>
 
 <p align="center">
