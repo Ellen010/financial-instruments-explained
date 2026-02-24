@@ -82,12 +82,12 @@ This project demonstrates my **front-end development skills, content architectur
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d51065f4-091d-4c6f-a928-a46a91e86070" width="75%" alt="Understanding Financial Instruments"/>
+  <img src="https://github.com/user-attachments/assets/d51065f4-091d-4c6f-a928-a46a91e86070" width="90%" alt="Understanding Financial Instruments"/>
 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/edc53101-2411-4eb7-a5a4-11365fcd53eb" width="75%" alt="History of stock exchanges" />
+  <img src="https://github.com/user-attachments/assets/edc53101-2411-4eb7-a5a4-11365fcd53eb" width="90%" alt="History of stock exchanges" />
 
 </p>
 
